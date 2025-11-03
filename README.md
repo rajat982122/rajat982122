@@ -7,8 +7,10 @@
 💡 Passionate about solving real-world problems with AI
 
 ---
+
 ## 🚀 What I'm Working On Currently
-- Mainly --> Research paper on Intelligent tutoring system (based on emotion , movement and eye tracking)
+
+- Mainly --> Research paper on Intelligent tutoring system (based on emotion, movement and eye tracking)
 - 🔍 Building end-to-end ML pipelines
 - 🧪 Experimenting with transformer models
 - 📈 Optimizing model performance and deployment
@@ -39,14 +41,41 @@
 
 ---
 
+## 📊 GitHub Stats
 
+<div align="center">
+  
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat982122&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat982122&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/rajat982122/rajat982122/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-yadav-52a64b28a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajat982122)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-rajat982122@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat982122@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rajatyadav9821)
+
 ---
 
-💬 *"In God we trust, all others must bring data." – W. Edwards Deming*  
+<div align="center">
+  
+💬 *"In God we trust, all others must bring data." – W. Edwards Deming*
+
+![Profile Views](https://komarev.com/ghpvc/?username=rajat982122&color=blueviolet&style=for-the-badge)
+
+</div>
