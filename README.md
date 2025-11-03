@@ -41,28 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajat982122&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat982122&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/rajat982122/rajat982122/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-yadav-52a64b28a/)
